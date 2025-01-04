@@ -1,4 +1,4 @@
-# Aplicatie_Practica_1_Cirjontu_Ionela
+# Aplicatie_Practica_1_Cirjontu_Ionela SOLUTIA 3
 
 Acesta este un algoritm de arbore de decizie implementat în Python, folosind bibliotecile NumPy și Pandas pentru procesarea datelor. Algoritmul incearca prezicerea soldului din luna decembrie antrenand modelul cu date preluate pentru luna noiembrie.
 
